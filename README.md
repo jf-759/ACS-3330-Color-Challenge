@@ -1,3 +1,28 @@
+🧠 AI Reflection:
+
+1. 2-3 prompts you asked AI
+
+    First prompt: 
+        
+        "Can you code review the code I have so far?"
+
+    Second prompt: 
+        
+        "I'm having trouble understanding how to randomly choose a color from the three given. Without showing me code, can you explain how that works?"
+
+
+2. A sentence or two on how AI helped (debugging, design, etc.)
+
+    The AI bot I used helped me code review the code I had, and when something wasn't working the way I wanted it to, it helped me see what issues I had in my code. I also used it as a learning opportunity to see how I could improve the code I made. 
+
+3. One thing you figured out on your own
+
+    One thing I figured out on my own was how to structure my logic inside a component. I created the randomColorSwatch() function and started modifying it as I added each new feature.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
