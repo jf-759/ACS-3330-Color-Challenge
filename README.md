@@ -4,11 +4,11 @@
 
     First prompt: 
         
-        "Can you code review the code I have so far?"
+    Can you code review the code I have so far?
 
     Second prompt: 
         
-        "I'm having trouble understanding how to randomly choose a color from the three given. Without showing me code, can you explain how that works?"
+    I'm having trouble understanding how to randomly choose a color from the three given. Without showing me code, can you explain how that works?
 
 
 2. A sentence or two on how AI helped (debugging, design, etc.)
